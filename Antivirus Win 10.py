@@ -1,0 +1,10 @@
+install.pack.virus
+web.github
+install.virus.pack
+web.https://mega.nz/file/4QJQgRxJ#BZ6edYBhi9mZ5glCk-_ihN3CmYLFru-cFPhZztcP6MQ
+web.http://www.mediafire.com/file/9f8fds9s3efg7so/WannaCry_by_Rafael.rar/file
+decrypt.password.virus123321
+web.https://github.com/bill-zhanxg/MEMZ_Destructive_Clean-Download
+web.https://www.sendspace.com/file/kqr18b
+web.https://bonzi.link/
+web.https://github.com/Endermanch/MalwareDatabase
